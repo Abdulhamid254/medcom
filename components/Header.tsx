@@ -9,7 +9,7 @@ function Header() {
     <header className='flex  flex-col '>
       <div className='flex items-center bg-medics_blue justify-between p-1 py-2 flex-grow'>
       <Link href="/" className='flex items-center space-x-2'>
-        <div className='bg-[#0160FE] w-fit cursor-pointer'>
+        <div className='bg-[#4f4f50] w-fit cursor-pointer'>
           <Image src="/logo.png" alt='logo' className='invert' height={50} width={50}/>
 
         </div>
@@ -52,6 +52,7 @@ function Header() {
         <p className='link hidden lg:inline-flex'>Dental Equipment</p>
         <p className='link hidden lg:inline-flex'>Opthamology Equipment</p>
         <p className='link hidden lg:inline-flex'>Hospital Furniture</p>
+        <p className='link hidden lg:inline-flex'>Theatre Furniture</p>
       </div>
     </header>  
   )

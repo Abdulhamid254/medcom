@@ -15,14 +15,11 @@ function Banner() {
           </h1>
 
           <p>
-            Enhance your personal stoarge with getArrays, offering a simple
-            and
-            efficient way to upload, organize, and access files from 
-            anywhere.
-            Securely store important documents and media, and experience
-            convinience of easy file management and sharing in one
-              centralized
-              solution.
+          🌟 Welcome to Saida Medicals - Your Trusted Partner in Healthcare Excellence! 🌟
+
+         At Saida Medicals, we redefine the pulse of healthcare by seamlessly blending innovation, quality, and reliability. 
+         As a premier destination for cutting-edge medical and hospital equipment,
+          we stand at the forefront of empowering healthcare professionals with the tools they need to deliver exceptional patient care.
           </p>
 
       </div>
